@@ -1,21 +1,27 @@
-### Hi there 👋
+# A Humble Greeting 👋
 
-<!--
-**AzusaChino/AzusaChino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quick Briefing
 
-Here are some ideas to get you started:
+I'm stupid, that's all.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AzusaChino&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="AzusaChino's github stats"/>
+## Some Points
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzusaChino&bg_color=071A2C&text_color=FFFFFF" alt="AzusaChino's top langs"/>
+- 🧐 Interested in full stack. Recent focus on backend.
+- 🌱 I’m currently learning c++ & Go.
+- 💬 Ask me about anything.
+- 📫 How to reach me: azusachino@yahoo.com
+- ✍🏻 Blog here [IdealisticDaydreamer](https://azusachino.cn)
+
+## 👑 GitHub Statistical Reports
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzusaChino&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AzusaChino&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="AzusaChino's Github Stats" />
+<!-- 各项指标，以奖杯形式展现 -->
+<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=AzusaChino&column=7" alt="AzusaChino's Github Trophy" /> -->
 </p>
+
+<!-- 特定仓库的访问人数 -->
+<!-- <p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AzusaChino.AzusaChino" alt="visitor badge"/>
+</p> -->
