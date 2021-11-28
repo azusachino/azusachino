@@ -2,13 +2,13 @@
 
 ## Quick Briefing
 
-I'm stupid, that's all.
+I'm stupid, but I didn't give up CS (for now).
 
-## Some Points
+## Some Facts
 
-- 🧐 Interested in full stack. Recent focus on backend.
-- 🌱 I’m currently learning c++ & Go.
-- 💬 Ask me about anything.
+- 🧐 Working on backend, suck at frontend (especially css), but curious about everything.
+- 🌱 I’m currently learning [Go](https://github.com/AzusaChino/little-go) & [Rust](https://github.com/AzusaChino/little-rust).
+- 💬 Ask me about anything, and I will give you my answer.
 - 📫 How to reach me: azusachino@yahoo.com
 - ✍🏻 Blog here [IdealisticDaydreamer](https://azusachino.cn)
 
