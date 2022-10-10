@@ -11,3 +11,4 @@ STAAAAIIIRRRRRSSSSSS!!?? I can't climb Stairs!
 - 📫 Email: azusa146@gmail.com
 - ✍🏻 Life Report & More [IdealisticDaydreamer](https://azusachino.cn)
 - 📚 Also some notes [little-record](https://rin.azusachino.cn)
+- 🎯 Check my resume [here](https://registry.jsonresume.org/azusachino), powered by [jsonresume](https://jsonresume.org/getting-started/)

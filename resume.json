@@ -1,115 +1,241 @@
 {
-    "titleNameMap": {
-        "educationList": "教育背景",
-        "workExpList": "工作经历",
-        "projectList": "项目经历",
-        "skillList": "个人技能",
-        "awardList": "更多信息",
-        "workList": "个人作品",
-        "aboutme": "自我介绍"
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "YinChun Pang",
+    "label": "Backend Developer",
+    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "summary": "A developer who keeps learning new things.",
+    "website": "https://azusachino.cn",
+    "email": "azusa146@gmail.com",
+    "location": {
+      "city": "HEFEI",
+      "countryCode": "CN"
     },
-    "avatar": {
-        "hidden": false
+    "profiles": [
+      {
+        "username": "azusachino",
+        "url": "https://twitter.com/azusachino",
+        "network": "twitter"
+      },
+      {
+        "username": "azusachino",
+        "url": "https://github.com/azusachino",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-30",
+      "area": "Software Engineering (incomplete)",
+      "studyType": "Bachelors",
+      "institution": "The University of Queensland"
+    }
+  ],
+  "references": [
+    {
+      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
+      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
     },
-    "profile": {
-        "name": "廖晓娟",
-        "email": "736929286@qq.com",
-        "mobile": "15625057119",
-        "github": "https://github.com/visiky",
-        "zhihu": "https://zhihu.com/people/visiky",
-        "workExpYear": "",
-        "workPlace": "",
-        "positionTitle": ""
+    {
+      "reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!",
+      "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc."
     },
-    "educationList": [
-        {
-            "edu_time": [
-                "2014.09.01",
-                "2018.06.30"
-            ],
-            "school": "华南理工大学",
-            "major": "网络工程",
-            "academic_degree": "本科"
-        }
-    ],
-    "awardList": [
-        {
-            "award_info": "英语 CET6",
-            "award_time": "2015"
-        },
-        {
-            "award_info": "蚂蚁近卫军 卓越个人奖",
-            "award_time": "2018.09"
-        },
-        {
-            "award_info": "前端练习生 可视化讲师",
-            "award_time": "2020.10"
-        },
-        {
-            "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-            "award_time": "2021.07"
-        }
-    ],
-    "workExpList": [
-        {
-            "company_name": "蚂蚁集团",
-            "department_name": "体验技术部",
-            "work_time": [
-                "2018.06",
-                null
-            ],
-            "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
-        },
-        {
-            "company_name": "蚂蚁金服",
-            "department_name": "大数据部",
-            "work_time": [
-                "2017.06",
-                "2017.12"
-            ],
-            "work_desc": "前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
-        },
-        {
-            "company_name": "数沃信息科技有限公司",
-            "department_name": "",
-            "work_time": [
-                "2017.03",
-                "2017.05"
-            ],
-            "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
-        }
-    ],
-    "skillList": [],
-    "projectList": [
-        {
-            "project_name": "数据作战室",
-            "project_role": "前端负责人",
-            "project_time": "2019.04 - 2020.06",
-            "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-            "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
-        },
-        {
-            "project_name": "DeepInsight",
-            "project_role": "可视分析负责人",
-            "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-            "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
-            "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
-        },
-        {
-            "project_name": "G2、G2Plot",
-            "project_role": "核心开发者",
-            "project_time": "2019 - 至今",
-            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-            "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
-        }
-    ],
-    "workList": [],
-    "aboutme": {
-        "aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    目前是开源产品 AntV G2/G2Plot 栈主要负责人。\n    "
+    {
+      "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player.",
+      "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet"
     },
-    "theme": {
-        "color": "#2f5785",
-        "tagColor": "#8bc34a"
+    {
+      "reference": "On Thomas Davis ... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do.",
+      "name": "Greg Davis"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / JSX",
+        "SCSS / CSS / BEM / Styled Components",
+        "Javascript / Typescript",
+        "React / Next",
+        "Redux / Apollo"
+      ],
+      "level": "Senior",
+      "name": "Frontend"
     },
-    "template": "template1"
+    {
+      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
+      "level": "Senior",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
+      "level": "Senior",
+      "name": "Devops"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Defender of the Internet",
+      "awarder": "Fight For The Future"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
+      "website": "https://tokenized.com/",
+      "name": "Tokenized",
+      "location": "Melbourne",
+      "position": "Senior Javascript Developer",
+      "startDate": "2020-05-05",
+      "highlights": ["React", "Redux", "SCSS", "Product"]
+    },
+    {
+      "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
+      "website": "https://platform.blockbid.io",
+      "name": "Blockbid",
+      "location": "Melbourne",
+      "position": "Senior Javascript Developer",
+      "startDate": "2018-03-01",
+      "endDate": "2020-01-01",
+      "highlights": [
+        "React, Apollo, Styled Components",
+        "Node.js / Rails",
+        "Docker / Heroku / GCP",
+        "Used Figma for design and UX work",
+        "Optimizing markets with tens of millions of rows using SQL."
+      ]
+    },
+    {
+      "highlights": [
+        "Worked with Postgres, Redis and Dynamodb for storage.",
+        "Hosted on a mixture of Heroku Apps and EC2 servers.",
+        "Caching by Fastly and Cloudflare",
+        "Hybrid app supported on all platforms"
+      ],
+      "summary": "Built a very large and complex React / Redux application. It works on all platforms and has IOS/Android builds due to it being a PWA. (wrapped it in React Native though only implementing a WebView)",
+      "website": "https://listium.com",
+      "pinned": true,
+      "name": "Listium",
+      "position": "Developer",
+      "startDate": "2016-01-01",
+      "endDate": "2018-01-01"
+    },
+    {
+      "highlights": [
+        "Millions of sites use the CDN in production",
+        "Larger market share than Yahoo's, Microsoft's and Google's javascript content distribution networks",
+        "We serve hundreds of billions request a month",
+        "Contains over 3000 popular Javascript libraries",
+        "Millions of developers visit the site per year"
+      ],
+      "pinned": true,
+      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+      "website": "http://www.cdnjs.com",
+      "name": "Cdnjs",
+      "position": "Co-Founder",
+      "startDate": "2011-01-08"
+    },
+    {
+      "highlights": [
+        "Developed new tools for contacting congress",
+        "Brainstormed campaign ideas to raise maximum awareness about issues",
+        "Lots of social networking integration"
+      ],
+      "summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
+      "website": "http://www.eff.org",
+      "name": "Electronic Frontier Foundation",
+      "position": "Developer",
+      "startDate": "2014-04-01",
+      "endDate": "2016-01-01"
+    },
+    {
+      "highlights": [
+        "Managed a small team of developers and designers",
+        "Built the entire frontend application with Backbone.js",
+        "Transferred all of the infrastructure from Heroku to AWS"
+      ],
+      "summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
+      "website": "http://www.earbits.com",
+      "name": "Earbits",
+      "position": "CTO",
+      "endDate": "2015-01-09",
+      "startDate": "2013-03-08"
+    },
+    {
+      "highlights": [
+        "This resume is built with JSON Resume",
+        "Over 3000 stars on Github",
+        "Community developed themes",
+        "Tens of thousands of users"
+      ],
+      "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
+      "website": "http://jsonresume.org",
+      "pinned": true,
+      "name": "JSON Resume",
+      "position": "Founder",
+      "startDate": "2014-04-01"
+    },
+    {
+      "highlights": [
+        "Generated  37,000,000 banner views",
+        "100, 000 phone calls to congress",
+        "500, 000 emails",
+        "250, 000 signatures"
+      ],
+      "summary": "Worked on many politically charged campaigns against mass surveillance. Not only technically challenging work but also a lot of networking and getting my hands dirty with politics.    Our biggest project was \"TheDayWeFightBack\"..",
+      "website": "http://www.taskforce.is",
+      "name": "Taskforce.is",
+      "position": "Developer",
+      "startDate": "2013-06-01",
+      "endDate": "2016-01-01"
+    },
+    {
+      "highlights": [
+        "The site and blog combined have managed to receive over 200,000 visitors in 2014."
+      ],
+      "summary": "An international directory of civilian drone / UAV operators for hire. Services include aerial photography, aerial video, mapping, surveying, precision agriculture, real estate photography, remote inspections and infrared imaging. Our plan is to be the place to go when looking for UAV/Drone services. The website is built in Backbone.js and API is built with Node.js and Postgres. ",
+      "website": "http://www.dronehire.org",
+      "name": "Drone Hire",
+      "position": "Co-Founder",
+      "startDate": "2013-01-01"
+    },
+    {
+      "highlights": [
+        "Over two million unique visitors a year",
+        "25,000+ ebook downloads",
+        "300,000+ Youtube views"
+      ],
+      "summary": "I write tutorials and blog post regarding the popular Javascript framework Backbone.js. The tutorials cover a range of topics regarding front end development aimed at beginners, experts and anyone in between.",
+      "website": "http://backbonetutorials.com",
+      "name": "BackboneTutorials.com",
+      "position": "Founder",
+      "startDate": "2011-01-01",
+      "endDate": "2014-01-01"
+    },
+    {
+      "summary": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation.",
+      "website": "http://ephox.com",
+      "name": "Ephox",
+      "position": "Front-end Developer",
+      "endDate": "2012-06-01",
+      "startDate": "2011-01-01"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Music / Jamming"
+    },
+    {
+      "name": "Reading / Writing"
+    },
+    {
+      "name": "Open Source"
+    }
+  ]
 }
