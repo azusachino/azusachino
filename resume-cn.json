@@ -3,10 +3,10 @@
     "theme": "elegant"
   },
   "basics": {
-    "name": "YinChun Pang",
-    "label": "Backend Developer",
+    "name": "庞尹春",
+    "label": "后端开发工程师",
     "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
-    "summary": "A developer who needs to keep learning new stuffs",
+    "summary": "",
     "website": "https://azusachino.icu",
     "email": "azusa146@gmail.com",
     "location": {
@@ -25,15 +25,15 @@
     {
       "startDate": "2014-09-01",
       "endDate": "2018-06-30",
-      "area": "Information Management & Information System",
-      "studyType": "Bachelors",
-      "institution": "CSUST(ChangSha University of Science and Technology)"
+      "area": "信息管理与信息系统",
+      "studyType": "本科",
+      "institution": "长沙理工大学"
     }
   ],
   "references": [
     {
-      "reference": "Nicely done, mister",
-      "name": "myself"
+      "reference": "小庞, 干得不错",
+      "name": "Myself"
     }
   ],
   "skills": [
@@ -44,14 +44,14 @@
         "Docker / Kubernetes",
         "JavaScript / Golang / Rust"
       ],
-      "level": "Middle",
-      "name": "Backend"
+      "level": "中级",
+      "name": "后端"
     }
   ],
   "awards": [
     {
-      "title": "Person of the Year",
-      "awarder": "TIME"
+      "title": "美国时代周刊2006年度人物",
+      "awarder": "美国时代周刊"
     }
   ],
   "work": [
@@ -61,7 +61,7 @@
       "name": "Tokenized",
       "location": "Melbourne",
       "position": "Senior Javascript Developer",
-      "startDate": "2020-05-05",
+      "startDate": "2021-01-05",
       "highlights": [
         "React",
         "Redux",

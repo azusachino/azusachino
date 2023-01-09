@@ -7,3 +7,7 @@
 ## Local Serve
 
 `resume serve --theme elegant`
+
+## References
+
+- [jsonresume](https://jsonresume.org/getting-started/)

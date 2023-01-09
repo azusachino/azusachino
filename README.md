@@ -1,14 +1,16 @@
-# Greetings, Traveller
+# Greetings, Travellers
 
-STAAAAIIIRRRRRSSSSSS!!?? I can't climb Stairs!
+No more adventures ahead, why don't you live with your old, generous memories.
 
-## Powers and Stats
+No matter what waits ahead, you still own something, or do you?
 
-- 🧐 Mainly focus on Java and the Spring eco-system.
-- ⛵ Capable of Writing some Go, CPP, Rust, JS codes.
-- 🌱 Currently learning cloud native related topics, like Docker & Kubernetes.
-- 💬 Challenges are the chances to take a new leap.
+## Power and Stats
+
+- 🧐 Mainly working on Java and the Spring eco-system
+- ⛵ Capable of writing some JS, Go, C++, Rust codes
+- 🌱 Currently focusing cloud native related topics, e.g. Docker & Kubernetes
+- 💬 Challenges are the chances to take a new leap, or are they?
 - 📫 Email: azusa146@gmail.com
-- ✍🏻 Life Report & More [IdealisticDaydreamer](https://azusachino.icu)
-- 📚 Also some notes [little-record](https://note.azusachino.icu)
-- 🎯 Check my resume [here](https://registry.jsonresume.org/azusachino), powered by [jsonresume](https://jsonresume.org/getting-started/)
+- ✍🏻 Life Reports [IdealisticDaydreamer](https://azusachino.icu)
+- 📚 And some reading notes [little-record](https://note.azusachino.icu)
+- 🎯 Also check my resume [here](https://azusachino.icu/resume), powered by [jsonresume](https://jsonresume.org/getting-started/)
