@@ -1,16 +1,19 @@
-# Greetings, Travellers
+# Greetings
 
-No more adventures ahead, why don't you live with your old, generous memories.
-
-No matter what waits ahead, you still own something, or do you?
+This world is exact what it is, as you are seeing it with your eyes.
 
 ## Power and Stats
 
 - 🧐 Mainly working on Java and the Spring eco-system
-- ⛵ Capable of writing some JS, Go, C++, Rust codes
-- 🌱 Currently focusing cloud native related topics, e.g. Docker & Kubernetes
-- 💬 Challenges are the chances to take a new leap, or are they?
+- ⛵ Capable of writing JavaScript, Golang, C++, Rust
+  - Golang: tiny web application by using gin or fiber
+  - Rust: cli tools by using clap & tokio
+  - JavaScript: simple SPA by using Vue.js or ReactJS
+  - C++: work around with the Java Native Interface
+- 🍕 Containerization is fun, Docker is a ~~past~~ legend, while k8s is way too complicated, keep practicing
+- 🌱 Currently crippling with TLPI (the heart of containerization machanism)
+- 💬 Don't be afraid of taking a faith leap
 - 📫 Email: azusa146@gmail.com
 - ✍🏻 Life Reports [IdealisticDaydreamer](https://azusachino.icu)
-- 📚 And some reading notes [little-record](https://note.azusachino.icu)
-- 🎯 Also check my resume [here](https://azusachino.icu/resume), powered by [jsonresume](https://jsonresume.org/getting-started/)
+- 📚 Learning Notes [HarusNote](https://note.azusachino.icu)
+- 🎯 Resume [YinChun Pang](https://azusachino.icu/cv)
