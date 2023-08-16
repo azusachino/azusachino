@@ -4,6 +4,8 @@ This world is exact what it is, as if you are seeing it with your own eyes.
 
 ## Power and Stats
 
+![PSN](https://card.psnprofiles.com/1/AzusaKotorin.png)
+
 - 🧐 Mainly working on Java and the Spring eco-system
 - ⛵ Capable of writing Golang, Rust, JavaScript, C++
   - Golang: [tiny web application](https://github.com/azusachino/ficus) by using [gofiber](https://github.com/gofiber/fiber)
