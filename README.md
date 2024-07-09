@@ -8,10 +8,6 @@ This world is exact what it is, as if you are seeing it with your own eyes.
 
 ![PSN](https://card.psnprofiles.com/1/AzusaKotorin.png)
 
-### LeetCode
-
-![azusachino-leetcode](https://leetcode-stats-six.vercel.app/?username=azusachino)
-
 ## General
 
 - 🧐 Mainly working on Java and the Spring eco-system
